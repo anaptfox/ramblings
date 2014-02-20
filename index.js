@@ -5,3 +5,5 @@
 var ghost = require('./core');
 
 ghost();
+
+console.log("Running on 2386");

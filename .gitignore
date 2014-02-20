@@ -18,6 +18,8 @@ node_modules
 
 npm-debug.log
 
+ghost-dev.db
+
 
 ########################
 # misc / editors
